@@ -24,8 +24,6 @@ K - FeKill's the Closest Player to Your Mouse (KillPlayer Key)
 
 Combat Commands:
 
--- Camlock, Aimlock, Fekill/Feloop, View, Esp, GroundHit, Anti GroundHit
-
 camlock/cam/cl/c [Name here] - Sets your Camlock Target, Puts your Camera on Selected Player
 uncamlock/uncam/uncl/c - Sets your Camlock Target to no one, turns Camlock off
 camlockpart/campart/clpart/cpart [torso, head, root] - Sets the Part in which the Camlock Targets on the Camlock Target
@@ -58,8 +56,6 @@ groundhit/gh - Toggles Always GroundHit on and off, Makes it so you can always t
 
 Keybind Commands:
 
--- Aimlock Key, Reset Key, TrashTalk Key, LockOn Key, Fly Key, NoClip Key, Item Buy Keys
-
 aimlockkey [Key here] - Sets your Aimlock Key 
 lockonkey [Key here] - Sets your LockOn Key 
 flykey [Key here] - Sets your Fly Key 
@@ -79,8 +75,6 @@ buyfoodkey [Key here] - Sets your Buy Food Key, Teleports you to Burger/Food and
 
 
 Movement/Mobility/Your Character Commands: 
-
--- WalkSpeed, JumpPower, HipHeight, Blink, Fly, NoClip, Infinite Jump, Teleport Bypass, AntiAim, AutoReset, NoSlow, Reset, True GodMode
 
 walkspeed/ws [Number here] - Sets the Speed in which you Walk 
 jumppower/jp [Number here] - Sets the Power in which you Jump
@@ -111,8 +105,6 @@ truegodmode/truegod/tgm - Toggles True GodMode on and off, if someone hits or sh
 
 Miscellaneous Commands:
 
--- Spam, Rejoin, Time, BulletColor, BulletLifeTime, DeathNote, Clear DeathNote, Check Player, Load Plugins
-
 bulletcolor/bc [orange, black, blue, etc] - Sets your Bullet Color (Client Sided)
 bulletlifetime/bt [Number here] - Sets how long you want your bullets to be visible (Client Sided)
 
@@ -131,7 +123,9 @@ time [night, day] - Sets the Game's Time Lighting
 loadplugins - Loads all Plugins in the Ciazware_Plugins Folder 
 ==============================================================
 ]]
+
 print(Message)
+
 end
 
 for i = 1, 2 do 
