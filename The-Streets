@@ -135,7 +135,6 @@ loadplugins - Loads all Plugins in the Ciazware_Plugins Folder
 ]]
 
 print(Message)
-warn(Message)
 
 end
 
