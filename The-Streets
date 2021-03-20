@@ -1,8 +1,6 @@
 function PrintCommands()
 
 local Message = [[
-
-
 Ciazware - by xaxa
 Current Version: 1.0
 
@@ -133,9 +131,7 @@ time [night, day] - Sets the Game's Time Lighting
 loadplugins - Loads all Plugins in the Ciazware_Plugins Folder 
 ==============================================================
 ]]
-
 print(Message)
-
 end
 
 for i = 1, 2 do 
