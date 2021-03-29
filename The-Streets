@@ -1,6 +1,6 @@
 function PrintCommands()
 
-local Message = [[
+CiazwarePrintMessage = [[
 Ciazware - by xaxa
 Current Version: 1.0
 
@@ -124,7 +124,7 @@ loadplugins - Loads all Plugins in the Ciazware_Plugins Folder
 ==============================================================
 ]]
 
-print(Message)
+print(CiazwarePrintMessage)
 
 end
 
